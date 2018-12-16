@@ -6,8 +6,6 @@ import PropTypes from 'prop-types';
 //import { TaskNameInput } from "./components/form/task_name_input"; //получение экспортируемой функции по имени
 //import { TaskNameInput as MyAlias} from "./components/form/task_name_input"; //получение экспортируемой функции по имени и запись ее в свой псевдоним
 
-//TODO перевод данных из формы в стэйт
-
 const testItems = [
     {
         id:23,
