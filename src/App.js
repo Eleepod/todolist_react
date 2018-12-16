@@ -59,10 +59,6 @@ class App extends Component {
 
     handleClearList = () => this.setState({list: []});
 
-    handleAddLocal = () => {
-      //TODO проверка данных на валидность, вывод ошибки в консоль или handleAdd()
-    };
-
     render() {
         return (
             <Fragment>
